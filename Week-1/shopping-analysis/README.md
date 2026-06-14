@@ -17,6 +17,9 @@ Tasks Performed
 
 * price_difference
 * popularity_score
+* Identified inconsistencies in the final_price column
+* Recalculated final_price using initial_price and discount percentage
+* Ensured pricing data consistency before analysis
 * main_category
 * Conducted univariate and bivariate analysis
 * Created visualizations
