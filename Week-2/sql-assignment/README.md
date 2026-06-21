@@ -24,6 +24,7 @@
 
 ## Tools Used
 
+- SQL
 - MySQL Workbench
 - GitHub
 
