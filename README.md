@@ -13,6 +13,7 @@ Celebal-Assignments/
 │   └── shopping-analysis/
 │
 ├── Week-2/
+    └── sql-assignment/
 │
 ├── Week-3/
 │
