@@ -51,15 +51,3 @@ Celebal-Assignments/
 ## Objective
 
 The goal of this repository is to document my learning journey throughout the Celebal Excellence Internship and showcase the assignments and projects completed during the program.
-
-## Author
-
-**Aditya Bheda**
-
-MCA Student | Data Engineer | Celebal Excellence Intern 2026
-
-LinkedIn: https://www.linkedin.com/in/aditya-bheda-0b3105242/
-
----
-
-⭐ Thank you for visiting this repository.
