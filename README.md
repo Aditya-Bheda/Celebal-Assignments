@@ -32,6 +32,7 @@ Celebal-Assignments/
 | Week | Topic | Status |
 |------|--------|--------|
 | Week 1 | Basic Data Exploration and Cleaning using Pandas | ✅ Completed |
+| Week 2 | SQL Basics, Joins, Aggregation, Transactions | ✅ Completed |
 
 
 ## Technologies Used
@@ -40,6 +41,7 @@ Celebal-Assignments/
 - Pandas
 - NumPy
 - SQL
+- MySQL Workbench
 - PySpark
 - Jupyter Notebook
 - Git & GitHub
