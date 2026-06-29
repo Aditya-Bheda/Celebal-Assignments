@@ -16,6 +16,7 @@ Celebal-Assignments/
     └── sql-assignment/
 │
 ├── Week-3/
+    └── sql-advanced-analytics/
 │
 ├── Week-4/
 │
@@ -34,7 +35,7 @@ Celebal-Assignments/
 |------|--------|--------|
 | Week 1 | Basic Data Exploration and Cleaning using Pandas | ✅ Completed |
 | Week 2 | SQL Basics, Joins, Aggregation, Transactions | ✅ Completed |
-
+| Week 3 | Advanced SQL Analytics (Subqueries, CTEs, Window Functions, Customer Sales Insights) | ✅ Completed |
 
 ## Technologies Used
 
