@@ -22,6 +22,7 @@ Celebal-Assignments/
     └── Data Pipeline using Azure Data Factory (ADF)/
 │
 ├── Week-5/
+     └── Apache Spark Data Cleaning and Transformation using PySpark/
 │
 ├── Week-6/
 │
@@ -38,6 +39,7 @@ Celebal-Assignments/
 | Week 2 | SQL Basics, Joins, Aggregation, Transactions | ✅ Completed |
 | Week 3 | Advanced SQL Analytics (Subqueries, CTEs, Window Functions, Customer Sales Insights) | ✅ Completed |
 | Week 4 | Azure Cloud Fundamentals, Azure Storage, Blob Storage & Azure Data Factory (ADF) Data Pipeline | ✅ Completed |
+| Week 5 | Apache Spark Data Cleaning and Transformation using PySpark | ✅ Completed |
 
 ## Technologies Used
 
@@ -52,6 +54,7 @@ Celebal-Assignments/
 - Azure Data Factory (ADF)
 - Azure IAM (Identity and Access Management)
 - Data Pipelines
+- Apache Spark
 - PySpark
 - Jupyter Notebook
 - Git & GitHub
