@@ -25,7 +25,7 @@ Celebal-Assignments/
      └── Apache Spark Data Cleaning and Transformation using PySpark/
 │
 ├── Week-6/
-│
+│    └── Apache Spark Data Cleaning and Transformation using PySpark/
 ├── Week-7/
 │
 └── Week-8/
@@ -40,6 +40,7 @@ Celebal-Assignments/
 | Week 3 | Advanced SQL Analytics (Subqueries, CTEs, Window Functions, Customer Sales Insights) | ✅ Completed |
 | Week 4 | Azure Cloud Fundamentals, Azure Storage, Blob Storage & Azure Data Factory (ADF) Data Pipeline | ✅ Completed |
 | Week 5 | Apache Spark Data Cleaning and Transformation using PySpark | ✅ Completed |
+| Week 6 | Apache Spark Fundamentals and Data Processing using PySpark | ✅ Completed |
 
 ## Technologies Used
 
@@ -59,6 +60,12 @@ Celebal-Assignments/
 - Jupyter Notebook
 - Git & GitHub
 - Data Engineering Concepts
+- CSV & Parquet
+-Transformations & Actions
+-Lazy Evaluation
+-DAG
+-Predicate Pushdown
+-Performance Optimization
 
 ## Objective
 
