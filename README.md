@@ -26,7 +26,10 @@ Celebal-Assignments/
 │
 ├── Week-6/
 │    └── Apache Spark Data Cleaning and Transformation using PySpark/
+
 ├── Week-7/
+│    └── Delta Lake Fundamentals/
+
 │
 └── Week-8/
 ```
@@ -41,6 +44,7 @@ Celebal-Assignments/
 | Week 4 | Azure Cloud Fundamentals, Azure Storage, Blob Storage & Azure Data Factory (ADF) Data Pipeline | ✅ Completed |
 | Week 5 | Apache Spark Data Cleaning and Transformation using PySpark | ✅ Completed |
 | Week 6 | Apache Spark Fundamentals and Data Processing using PySpark | ✅ Completed |
+| Week 7 | Delta Lake Fundamentals – Data Cleaning, Delta Tables, MERGE Operations (SCD Type-1 & Type-2), Incremental Data Processing and Validation using PySpark | ✅ Completed |
 
 ## Technologies Used
 
@@ -66,6 +70,8 @@ Celebal-Assignments/
 -DAG
 -Predicate Pushdown
 -Performance Optimization
+-Delta table
+-Databricks
 
 ## Objective
 
