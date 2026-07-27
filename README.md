@@ -64,14 +64,15 @@ Celebal-Assignments/
 - Jupyter Notebook
 - Git & GitHub
 - Data Engineering Concepts
+- Delta table
+- Databricks
 - CSV & Parquet
 -Transformations & Actions
 -Lazy Evaluation
 -DAG
 -Predicate Pushdown
 -Performance Optimization
--Delta table
--Databricks
+
 
 ## Objective
 
