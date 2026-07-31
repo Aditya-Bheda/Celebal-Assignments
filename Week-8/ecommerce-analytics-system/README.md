@@ -460,17 +460,3 @@ Through this project, the following concepts were implemented:
 - Command Line Interface Development
 
 ---
-
-# 🔮 Future Enhancements
-
-Possible improvements include:
-
-- Interactive Dashboard using Streamlit or Power BI
-- Automated ETL Pipeline
-- REST API Integration
-- Scheduled Data Refresh
-- Cloud Database Integration
-- Apache Spark Implementation
-- Azure Databricks Pipeline
-
----
