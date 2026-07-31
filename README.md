@@ -32,6 +32,7 @@ Celebal-Assignments/
 
 │
 └── Week-8/
+     └── E-Commerce Order Analytics System/
 ```
 
 ## Weekly Assignments
@@ -44,7 +45,9 @@ Celebal-Assignments/
 | Week 4 | Azure Cloud Fundamentals, Azure Storage, Blob Storage & Azure Data Factory (ADF) Data Pipeline | ✅ Completed |
 | Week 5 | Apache Spark Data Cleaning and Transformation using PySpark | ✅ Completed |
 | Week 6 | Apache Spark Fundamentals and Data Processing using PySpark | ✅ Completed |
-| Week 7 | Delta Lake Fundamentals – Data Cleaning, Delta Tables, MERGE Operations (SCD Type-1 & Type-2), Incremental Data Processing and Validation using PySpark | ✅ Completed |
+| Week 7 | Delta Lake Fundamentals – Data Cleaning, Delta Tables, MERGE Operations (SCD Type-1 & Type-2), Incremental Data Processing and Validation using                   PySpark | ✅ Completed |
+| Week 8 | End-to-End E-Commerce Order Analytics System using Python, Pandas, SQLite & SQL | ✅ Completed |
+
 
 ## Technologies Used
 
@@ -70,6 +73,7 @@ Celebal-Assignments/
 -Transformations & Actions
 -Lazy Evaluation
 -DAG
+-Medallion Architecture
 -Predicate Pushdown
 -Performance Optimization
 
