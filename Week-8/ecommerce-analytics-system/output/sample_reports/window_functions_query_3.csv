@@ -1,0 +1,29 @@
+state,customer_id,first_name,last_name,total_spent,row_num
+Andhra Pradesh,1338,Advay,Sidhu,6687918,1
+Arunachal Pradesh,1147,Abdul,Jayaraman,7182173,1
+Assam,1197,Saanvi,Rana,9310311,1
+Bihar,1092,Ethan,Seshadri,7790052,1
+Chhattisgarh,1037,Bhanumati,Gade,7507547,1
+Goa,1439,Chandresh,Dewan,7955702,1
+Gujarat,1340,Priya,Ramanathan,7219954,1
+Haryana,1332,Amara,Gade,6949925,1
+Himachal Pradesh,1199,Parth,Acharya,6422376,1
+Jharkhand,1253,Rohan,Agate,8502809,1
+Karnataka,1278,Hritik,Shah,9897481,1
+Kerala,1070,Dakshesh,Som,8313248,1
+Madhya Pradesh,1064,Oni,Mittal,10489914,1
+Maharashtra,1277,Yasti,Aggarwal,7764990,1
+Manipur,1418,Anamika,Samra,6001177,1
+Meghalaya,1397,Unni,Maharaj,6862044,1
+Mizoram,1352,Raksha,Lala,11590688,1
+Nagaland,1455,Parth,Pradhan,7688024,1
+Odisha,1448,Laban,Varghese,8158709,1
+Punjab,1067,Urvi,Master,8443155,1
+Rajasthan,1056,Ikbal,Sawhney,7608354,1
+Sikkim,1102,Gaurangi,Balasubramanian,9884338,1
+Tamil Nadu,1296,Leena,Krishna,5436043,1
+Telangana,1217,Parth,Ratta,8429380,1
+Tripura,1252,Rehaan,Hayer,7781932,1
+Uttar Pradesh,1407,Prisha,Garg,8530510,1
+Uttarakhand,1399,Qadim,Deshmukh,6405614,1
+West Bengal,1413,Tristan,Kota,8474817,1

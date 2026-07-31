@@ -1,0 +1,151 @@
+product_id,product_name,category,brand,price,stock_quantity
+1,Cricket Bat,Sports,Adidas,50707.0,248
+2,Badminton Racket,Sports,Nike,48841.0,232
+3,Monitor,Electronics,Unknown Brand,13554.0,465
+4,Badminton Racket,Sports,HP,46721.0,343
+5,Data Engineering,Books,Philips,26134.0,131
+6,Helmet,Sports,LG,21286.0,183
+7,Jacket,Fashion,Sony,95184.0,402
+8,Data Engineering,Books,Apple,49819.0,252
+9,Smart Watch,Electronics,Dell,20871.0,318
+10,Sunglasses,Fashion,Lenovo,26689.0,317
+11,Mouse,Electronics,Apple,10900.0,457
+12,Water Bottle,Home & Kitchen,Godrej,52829.0,149
+13,SQL Basics,Books,Nike,97810.0,299
+14,Machine Learning,Books,Prestige,55863.0,336
+15,Football,Sports,LG,48998.0,56
+16,Mouse,Electronics,Apple,9937.0,243
+17,Kurta,Fashion,Amazon Basics,13948.0,404
+18,Machine Learning,Books,Apple,79719.0,491
+19,Python Programming,Books,Dell,72397.0,211
+20,Water Bottle,Home & Kitchen,Penguin,44033.0,252
+21,Tennis Ball,Sports,Puma,81691.0,482
+22,Rich Dad Poor Dad,Books,LG,78894.0,235
+23,Tablet,Electronics,Prestige,18620.0,170
+24,SQL Basics,Books,Adidas,43443.0,86
+25,Headphones,Electronics,Penguin,16898.0,376
+26,Vacuum Cleaner,Home & Kitchen,Amazon Basics,18911.0,471
+27,Rice Cooker,Home & Kitchen,Boat,65552.0,377
+28,Clean Code,Books,Sony,90487.0,72
+29,Mouse,Electronics,Puma,7739.0,498
+30,Jacket,Fashion,Puma,51211.0,18
+31,Clean Code,Books,Nike,7724.0,414
+32,Yoga Mat,Sports,LG,15187.0,91
+33,Clean Code,Books,Samsung,20004.0,178
+34,Jacket,Fashion,HP,36630.0,471
+35,Cap,Fashion,Lenovo,48998.0,181
+36,SQL Basics,Books,Lenovo,53847.0,402
+37,Tablet,Electronics,Apple,95562.0,498
+38,Dumbbells,Sports,Philips,76444.0,84
+39,Keyboard,Electronics,Boat,54311.0,263
+40,Dumbbells,Sports,Godrej,48312.0,171
+41,Dining Set,Home & Kitchen,HP,48998.0,301
+42,Cricket Bat,Sports,Sony,47104.0,119
+43,Laptop,Electronics,Puma,88213.0,371
+44,Yoga Mat,Sports,Boat,82291.0,256
+45,Keyboard,Electronics,Prestige,48206.0,114
+46,Monitor,Electronics,Apple,23671.0,12
+47,Vacuum Cleaner,Home & Kitchen,Philips,53706.0,358
+48,Bluetooth Speaker,Electronics,Boat,68133.0,23
+49,Smart Watch,Electronics,Philips,92850.0,57
+50,Sneakers,Fashion,Prestige,37334.0,24
+51,Smartphone,Electronics,Penguin,59928.0,367
+52,Python Programming,Books,LG,58298.0,275
+53,Bluetooth Speaker,Electronics,Amazon Basics,50574.0,449
+54,Sunglasses,Fashion,Philips,9962.0,475
+55,Jeans,Fashion,Penguin,34918.0,405
+56,Vacuum Cleaner,Home & Kitchen,Boat,9175.0,300
+57,Smartphone,Electronics,Adidas,92455.0,311
+58,Dumbbells,Sports,HP,39174.0,394
+59,Vacuum Cleaner,Home & Kitchen,Samsung,20643.0,314
+60,Pressure Cooker,Home & Kitchen,HP,84088.0,376
+61,Bluetooth Speaker,Electronics,Adidas,26079.0,407
+62,Cricket Bat,Sports,Sony,98446.0,185
+63,Air Fryer,Home & Kitchen,Sony,33538.0,217
+64,Python Programming,Books,Prestige,69811.0,30
+65,Tennis Ball,Sports,Boat,25065.0,500
+66,Cricket Bat,Sports,Boat,82653.0,442
+67,Mixer Grinder,Home & Kitchen,Sony,33911.0,226
+68,Machine Learning,Books,Boat,25842.0,344
+69,Knife Set,Home & Kitchen,Dell,48871.0,154
+70,Rich Dad Poor Dad,Books,Prestige,55878.0,313
+71,Badminton Racket,Sports,Samsung,4786.0,403
+72,Handbag,Fashion,HP,20480.0,58
+73,Sneakers,Fashion,Dell,87951.0,367
+74,Mixer Grinder,Home & Kitchen,Apple,16985.0,154
+75,Kurta,Fashion,Adidas,35916.0,255
+76,Yoga Mat,Sports,Boat,56428.0,484
+77,Vacuum Cleaner,Home & Kitchen,Nike,6325.0,207
+78,Cap,Fashion,HP,48998.0,382
+79,Sneakers,Fashion,Philips,81723.0,268
+80,Tablet,Electronics,Penguin,89761.0,292
+81,Monitor,Electronics,Lenovo,19078.0,30
+82,Knife Set,Home & Kitchen,LG,87619.0,75
+83,Tennis Ball,Sports,Puma,48998.0,90
+84,Keyboard,Electronics,Lenovo,87906.0,81
+85,Cricket Bat,Sports,Adidas,48998.0,70
+86,Clean Code,Books,LG,49654.0,100
+87,Keyboard,Electronics,Sony,41279.0,424
+88,Clean Code,Books,Unknown Brand,4300.0,498
+89,Python Programming,Books,Apple,83106.0,487
+90,Vacuum Cleaner,Home & Kitchen,Amazon Basics,49507.0,47
+91,Clean Code,Books,Samsung,98063.0,126
+92,Air Fryer,Home & Kitchen,Dell,61356.0,290
+93,The Alchemist,Books,Boat,64437.0,77
+94,Machine Learning,Books,Lenovo,67315.0,500
+95,Dining Set,Home & Kitchen,Adidas,51431.0,21
+96,Dining Set,Home & Kitchen,LG,8053.0,132
+97,Tennis Ball,Sports,Adidas,3679.0,174
+98,Microwave,Home & Kitchen,Unknown Brand,83293.0,471
+99,Jacket,Fashion,Adidas,34203.0,112
+100,Gas Stove,Home & Kitchen,LG,71517.0,376
+101,SQL Basics,Books,Godrej,86737.0,20
+102,Smartphone,Electronics,Adidas,22808.0,41
+103,Pressure Cooker,Home & Kitchen,HP,31445.0,185
+104,Mixer Grinder,Home & Kitchen,Boat,9521.0,498
+105,Microwave,Home & Kitchen,Unknown Brand,56021.0,108
+106,Cricket Gloves,Sports,Lenovo,95466.0,282
+107,Running Shoes,Fashion,Adidas,84963.0,230
+108,Cap,Fashion,Penguin,46915.0,405
+109,Sunglasses,Fashion,Nike,19474.0,107
+110,Clean Code,Books,Godrej,30121.0,253
+111,Gas Stove,Home & Kitchen,Nike,73941.0,307
+112,Helmet,Sports,Apple,69548.0,461
+113,Python Programming,Books,Apple,14616.0,253
+114,Kurta,Fashion,Godrej,48998.0,304
+115,Mouse,Electronics,Penguin,25302.0,310
+116,Atomic Habits,Books,Sony,42082.0,406
+117,Cap,Fashion,Dell,12972.0,325
+118,Dumbbells,Sports,Prestige,13822.0,326
+119,Kurta,Fashion,Puma,26176.0,189
+120,Cricket Gloves,Sports,Puma,3186.0,425
+121,Jacket,Fashion,Puma,32706.0,415
+122,Data Engineering,Books,Puma,58214.0,144
+123,Pressure Cooker,Home & Kitchen,Lenovo,50047.0,320
+124,Jacket,Fashion,Sony,78300.0,279
+125,Pressure Cooker,Home & Kitchen,Dell,33628.0,434
+126,Monitor,Electronics,Lenovo,20393.0,456
+127,Cap,Fashion,Samsung,94118.0,419
+128,Watch,Fashion,Amazon Basics,80334.0,168
+129,Gas Stove,Home & Kitchen,Sony,14470.0,278
+130,Running Shoes,Fashion,Sony,27703.0,97
+131,Tablet,Electronics,Amazon Basics,76514.0,64
+132,Handbag,Fashion,Adidas,42778.0,62
+133,Smart Watch,Electronics,Prestige,19030.0,148
+134,Machine Learning,Books,Nike,65964.0,263
+135,Data Engineering,Books,Dell,94663.0,412
+136,Sneakers,Fashion,Sony,53946.0,497
+137,Helmet,Sports,Prestige,73589.0,473
+138,Clean Code,Books,LG,52367.0,265
+139,Smart Watch,Electronics,Unknown Brand,34743.0,339
+140,Running Shoes,Fashion,Amazon Basics,83331.0,347
+141,Watch,Fashion,Samsung,19091.0,275
+142,Smart Watch,Electronics,Nike,40304.0,62
+143,Vacuum Cleaner,Home & Kitchen,Adidas,20414.0,404
+144,Bluetooth Speaker,Electronics,Penguin,93669.0,134
+145,Data Engineering,Books,Amazon Basics,70418.0,336
+146,Monitor,Electronics,Samsung,52304.0,239
+147,Clean Code,Books,Puma,53510.0,109
+148,SQL Basics,Books,LG,55893.0,310
+149,Dumbbells,Sports,Philips,95245.0,287
+150,Sunglasses,Fashion,Samsung,30192.0,253
