@@ -286,22 +286,17 @@ Metrics include:
 
 This provides a single-query snapshot of the entire pipeline.
 
----
-
-# 📸 Project Screenshots
-
-
-
----
 
 # 📑 ER Diagram
 
 
+<img width="812" height="1112" alt="ER_Diagram drawio" src="https://github.com/user-attachments/assets/f291b538-d2c2-4189-840a-3e37561b95cf" />
 
 
 ---
 
 # 🔄 Pipeline Architecture
+<img width="312" height="1292" alt="Pipeline_Architecture" src="https://github.com/user-attachments/assets/0bffb180-95b3-4d47-ab8b-3f20e4d8c6ea" />
 
 
 ---
